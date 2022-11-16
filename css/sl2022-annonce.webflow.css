@@ -1,0 +1,5 @@
+.image {
+  position: static;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
